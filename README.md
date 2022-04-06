@@ -4,6 +4,7 @@
 - 📫 How to reach me:
   email: rsludwikowski@gmail.com 
   phone: +48 607 915 309
+  https://www.linkedin.com/in/robert-szott-ludwikowski-062942217/
 
 <!---
 rsludwikowski/rsludwikowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
