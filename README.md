@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Szott-Ludwikowski
 - 👀 I’m interested in backend programming, Unity C# game developing and robotics
-- 🌱 I’m currently learning on AGH University of Science and Technology: Automatic Control and Robotics (year 4) and Technical Informatics (year 2)
+- 🌱 I have finished Masters of Engineering on AGH University of Science and Technology: Automatic Control and Robotics and Technical Informatics (year 2)
 - 📫 How to reach me:
   email: rsludwikowski@gmail.com 
   phone: +48 607 915 309
